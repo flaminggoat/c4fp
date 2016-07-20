@@ -1,5 +1,5 @@
 -------------------------------
--- cla.vhd
+-- alu_tb.vhd
 -- Theo Hussey 2016
 --
 -- Test bench for alu
